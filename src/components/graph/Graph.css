@@ -1,0 +1,41 @@
+.graph-head {
+  color: var(--primary-text, #1e272e);
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 175% */
+  letter-spacing: -0.32px;
+}
+
+.graph-para {
+  color: var(--secondary-text, #566474);
+  font-family: DM Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 21px */
+  letter-spacing: -0.28px;
+  margin-top: 16px;
+}
+
+.graph-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* .graph-txt-wrapper {
+	display: flex;
+} */
+
+.container-graph {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.graph-bottom {
+  width: 100%;
+}
