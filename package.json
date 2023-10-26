@@ -1,6 +1,7 @@
 {
 	"name": "skill-evaluation",
 	"version": "0.1.0",
+	"homepage": "https://stickqz.github.io/skill-evaluation/",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
